@@ -1,4 +1,4 @@
-![Swarm Logo](assets/logo.png)
+![Swarm Logo](assets/logo.png)CML
 
 # Swarm (experimental, educational)
 
